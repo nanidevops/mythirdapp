@@ -2,3 +2,5 @@ bangalore
 marthahalli
 vinayaka hostel
 changed by buffix-1
+<<<<<<< HEAD
+hello 123
